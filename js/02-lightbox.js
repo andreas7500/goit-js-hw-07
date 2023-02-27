@@ -25,7 +25,7 @@ new SimpleLightbox('.gallery a', {
   captionPosition: 'bottom',
 });
 
-gallery.on('show.simplelightbox', function () {
-  // do something…
-});
+// gallery.on('show.simplelightbox', function () {
+//   // do something…
+// });
 console.log(galleryItems);
